@@ -1,6 +1,12 @@
 # git-tutorial
 git tutorial for NEU Roux Students
 
+## Tools to Use
+1. Google
+2. The Guide I added to this repo ![](Atlassian-Git-Cheatsheet.pdf)
+3. The [Slide Deck](https://docs.google.com/presentation/d/19rCdLBMFd_Ew36ubbbhBunv3dN6EWXf5WMEo2YUO4j8/edit?usp=sharing)
+
+
 ## Instructions
 1. Clone this repo to your local machine
 2. Choose a book from this list, make sure everyone has a unique book (Use Issues)
