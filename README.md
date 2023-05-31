@@ -3,7 +3,7 @@ git tutorial for NEU Roux Students
 
 ## Tools to Use
 1. Google
-2. The Guide I added to this repo ![](Atlassian-Git-Cheatsheet.pdf)
+2. The Guide in this repp
 3. The [Slide Deck](https://docs.google.com/presentation/d/19rCdLBMFd_Ew36ubbbhBunv3dN6EWXf5WMEo2YUO4j8/edit?usp=sharing)
 
 
