@@ -9,7 +9,7 @@ git tutorial for NEU Roux Students
 
 ## Instructions
 1. Clone this repo to your local machine
-2. Choose a book from this list, make sure everyone has a unique book (Use Issues)
+2. Choose a book from [this list](https://www.gutenberg.org/browse/scores/top), make sure everyone has a unique book (Use Issues)
 3. Download the book onto your local machine and add it to a branch
 4. Push the branch to the repository
 5. Login to github and create a pull request
